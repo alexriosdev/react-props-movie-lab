@@ -5,9 +5,9 @@
     "passes": 14,
     "pending": 0,
     "failures": 0,
-    "start": "2020-12-09T22:12:39.770Z",
-    "end": "2020-12-09T22:12:39.821Z",
-    "duration": 51
+    "start": "2020-12-09T23:31:47.419Z",
+    "end": "2020-12-09T23:31:47.503Z",
+    "duration": 84
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,7 +83,7 @@
     {
       "title": "correctly renders the title prop",
       "fullTitle": "<CardBack /> correctly renders the title prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +97,7 @@
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -185,7 +185,7 @@
     {
       "title": "correctly renders the title prop",
       "fullTitle": "<CardBack /> correctly renders the title prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -199,7 +199,7 @@
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
